@@ -1,6 +1,6 @@
 # Tap this repo
 ```
-brew tap KristijanZic/taps
+brew tap KristijanZic/tap
 ```
 
 # Install the programs
